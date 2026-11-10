@@ -1,0 +1,9 @@
+{
+    "app_name": "myConfig",
+    "run_mode": "dev",
+    "http_port": 8080,
+    "graceful": true,
+    "copy_request_body": true,
+    "enable_admin": false,
+    "platformmaskingdata::key": "mask-key-demo-123"
+}
